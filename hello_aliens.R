@@ -1,0 +1,1 @@
+cat("If you are out there, send a vaccine for Covid-19 as quickly as possible. Thanks.")
